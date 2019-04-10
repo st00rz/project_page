@@ -1,5 +1,5 @@
-title: NDN-TITLE
-description: Much-Worse Jekyll theme for academic page and blog
+title: "NDN-TITLE"
+description: "Copyright reserved by UCLA"
 sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
 permalink: blog/:year/:month/:day/:title
